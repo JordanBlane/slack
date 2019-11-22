@@ -2,6 +2,7 @@
   "name": "slack-clone",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://jordanblane.github.io/slack/",
   "dependencies": {
     "jquery": "^3.4.1",
     "react": "^16.12.0",
