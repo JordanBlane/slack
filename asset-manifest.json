@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/slack/static/css/main.f8e9fa17.chunk.css",
-    "main.js": "/slack/static/js/main.724e13e9.chunk.js",
-    "main.js.map": "/slack/static/js/main.724e13e9.chunk.js.map",
+    "main.css": "/slack/static/css/main.5ad5f923.chunk.css",
+    "main.js": "/slack/static/js/main.de739e6e.chunk.js",
+    "main.js.map": "/slack/static/js/main.de739e6e.chunk.js.map",
     "runtime-main.js": "/slack/static/js/runtime-main.b3828bb8.js",
     "runtime-main.js.map": "/slack/static/js/runtime-main.b3828bb8.js.map",
     "static/js/2.fa2449c8.chunk.js": "/slack/static/js/2.fa2449c8.chunk.js",
     "static/js/2.fa2449c8.chunk.js.map": "/slack/static/js/2.fa2449c8.chunk.js.map",
     "index.html": "/slack/index.html",
-    "precache-manifest.ca4357aaf4e007c258991bc035b3cbac.js": "/slack/precache-manifest.ca4357aaf4e007c258991bc035b3cbac.js",
+    "precache-manifest.689e5648ab04a2f7fd018a928cf4a74e.js": "/slack/precache-manifest.689e5648ab04a2f7fd018a928cf4a74e.js",
     "service-worker.js": "/slack/service-worker.js",
-    "static/css/main.f8e9fa17.chunk.css.map": "/slack/static/css/main.f8e9fa17.chunk.css.map"
+    "static/css/main.5ad5f923.chunk.css.map": "/slack/static/css/main.5ad5f923.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.b3828bb8.js",
     "static/js/2.fa2449c8.chunk.js",
-    "static/css/main.f8e9fa17.chunk.css",
-    "static/js/main.724e13e9.chunk.js"
+    "static/css/main.5ad5f923.chunk.css",
+    "static/js/main.de739e6e.chunk.js"
   ]
 }
